@@ -4,7 +4,7 @@ body{
 }
 header{
 	 background-color: #BDBDBD;
-	 background-image: url("D:/WEB D/IntoToCSS3 project/images/flywheel.jpg");
+	 background-image: url("../images/flywheel.jpg");
 	 background-size: auto;
 }
 h1{
